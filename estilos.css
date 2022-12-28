@@ -6,7 +6,9 @@
     padding: 0;
     box-sizing: border-box;
 }
-
+body{
+    background-color: beige;
+}
 #logo-grande, #movile-l, #tablet-p, #tablet-l, #laptop, #desktop{
     display: none;
 }
